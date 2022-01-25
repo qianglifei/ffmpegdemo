@@ -1,2 +1,3 @@
 rootProject.name = "ffmpegdemo"
 include ':app'
+include ':Live'

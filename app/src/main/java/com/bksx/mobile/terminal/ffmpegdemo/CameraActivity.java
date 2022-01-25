@@ -205,7 +205,6 @@ public class CameraActivity extends AppCompatActivity implements SurfaceHolder.C
                         + (endTime - previewTime) + "  " + Thread.currentThread().getName());
                 previewTime = endTime;
             }
-
         }
     }
 
